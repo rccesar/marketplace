@@ -1,0 +1,27 @@
+.header {
+ background: #0F52BA;
+  position: fixed;
+  width: 100%;
+  z-index: 1;
+}
+
+.header > div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+.mks {
+  font-size: 40px;
+  font-weight: 600;
+  color: #FFFFFF;
+}
+
+.sistemas {
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 19px;
+  text-align: center;
+  color: #FFFFFF;
+
+}
